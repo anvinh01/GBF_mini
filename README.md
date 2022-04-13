@@ -32,3 +32,10 @@ Having <b>more attack options</b> might also be good. The Player might have to c
     <li>Player is not alone. (controlls 3 player which also gives more attack options)</li>
 </ol>
 
+<h3>My Implemntation</h3>
+<object data="src/States/StateMachine.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="src/States/StateMachine.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
