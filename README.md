@@ -33,6 +33,7 @@ Having <b>more attack options</b> might also be good. The Player might have to c
 </ol>
 
 <h3>My Implemntation</h3>
+To start the game, copy all files and put the src/main.cs as the script file.
 <object data="src/States/StateMachine.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="src/States/StateMachine.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="src/States/StateMachine.pdf">Download PDF</a>.</p>
