@@ -34,8 +34,25 @@ Having <b>more attack options</b> might also be good. The Player might have to c
 
 <h3>My Implemntation</h3>
 <object data="src/States/StateMachine.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
+    <embed src="src/States/StateMachine.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="src/States/StateMachine.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+I implmented it so, that there is enough room to put more skills into the game or Weapons, etc. Each Player has following stats:
+<ol>
+    <li>Hp</li>
+    <li>Physical ATK</li>
+    <li>Magical ATK</li>
+    <li>Def (Physical)</li>
+    <li>Res (Physical)</li>
+    <li>Skill1</li>
+    <li>Skill2</li>
+</ol>
+
+Each those attributes can be upgraded and the Skills are split into Healing, Tanking and attacking.
+No one is forced to pick a route. After Each Stage the player gets Loot (30% chance) and can add the skill into his character.
+The Player has 3 character, so he can experiment with setups like: 1 Tank, 1 DamageDealer, 1 Healer or 3 Damage dealer, etc.
+This room for freedom is good to keep the game amusing.
+
 
